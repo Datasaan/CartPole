@@ -1,3 +1,3 @@
 # CartPole
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/Datasaan/CartPole/blob/master/cart-pole-v0/cartpole-experiment-1/openaigym.video.2.4634.video000001.mp4" width="40" height="40" />
